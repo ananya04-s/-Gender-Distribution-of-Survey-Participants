@@ -125,30 +125,7 @@ The objective is to explore participant responses, identify trends and patterns,
 
 ---
 
-## 📁 Folder Structure
 
-```
-Excel-Data-Visualization/
-│
-├── Dataset/
-│   └── Survey_Data.csv
-│
-├── Excel Files/
-│   ├── Task1_Gender_Distribution.xlsx
-│   ├── Task2_Age_Distribution.xlsx
-│   ├── Task3_Investment_Preferences.xlsx
-│   └── Task4_Duration_Expectations.xlsx
-│
-├── Images/
-│   ├── PieChart.png
-│   ├── Histogram.png
-│   ├── BarChart.png
-│   └── RadarChart.png
-│
-├── Report/
-│   └── Data_Visualization_Report.pdf
-│
-└── README.md
 ```
 
 ---
